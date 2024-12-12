@@ -1,5 +1,3 @@
-# Bộ sưu tập của Bạn
-Dự án Bộ sưu tập của Bạn dành cho 10A4
 
 ![GitHub Release Date](https://img.shields.io/github/release-date/VinhNgT/portfolio_projects?style=flat-square)
 
@@ -11,7 +9,7 @@ Dự án Bộ sưu tập của Bạn dành cho 10A4
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
 
-## Description
+## Dự án Bộ sưu tập của Bạn dành cho 10A4
 
 A brief description of your project goes here.
 
