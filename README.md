@@ -5,7 +5,7 @@ Là dự án lưu trữ những hình ảnh và kỷ niệm lên trên ứng d�
 
 ## Chọn mục lục để xem nhanh:
 
-- [Cách cài đặt ứng dụng](#install App)
+- [Cách cài đặt ứng dụng](#installㅤㅤㅤㅤㅤㅤㅤㅤㅤApp)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -23,7 +23,7 @@ Instructions on how to use your project and any relevant examples or screenshots
 
 Guidelines on how to contribute to your project and any specific requirements.
 
-## Install App
+## InstallㅤㅤㅤㅤㅤㅤㅤㅤㅤApp
 
 This project is licensed under the [MIT License](LICENSE).
 
