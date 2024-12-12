@@ -15,7 +15,7 @@ Về quá trình xây dựng ứng dụng của chúng tôi thường diễn ra 
 
 <img src="resources/Screenshot_20241212_225341_Sketchware Pro.jpg" >
 
-<img src="resources/Screenshot_20241212_225640_Sketchware Pro.jpg" height="480">
+<img src="resources/Screenshot_20241212_225640_Sketchware Pro.jpg" height="640">
 
 
 ## Cài đặt ứng dụng
