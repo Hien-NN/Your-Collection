@@ -5,7 +5,7 @@ Là dự án lưu trữ những hình ảnh và kỷ niệm lên trên ứng d�
 
 ## Chọn mục lục để xem nhanh:
 
-- [Cách cài đặt ứng dụng](#Cài-đặt)
+- [Cách cài đặt ứng dụng](#cài-đặt)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -13,7 +13,7 @@ Là dự án lưu trữ những hình ảnh và kỷ niệm lên trên ứng d�
 
 ## Cài-đặt
 
-Instructions on how to install and set up your project.
+Để cài đặt ứng dụng này dành cho 10A4 
 
 ## Usage
 
