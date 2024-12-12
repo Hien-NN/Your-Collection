@@ -3,15 +3,15 @@
 
 Là dự án lưu trữ những hình ảnh và kỷ niệm lên trên ứng dụng này thông qua việc trò chuyện trên ứng dụng như: Messager, Zalo,... Chúng tôi thu thập các hình ảnh và kỷ niệm đó để đưa lên ứng dụng nhằn xem lại những hình ảnh và kỷ niệm đáng nhớ trong những năm qua. Chúng tôi đã lên kế hoạch trong tháng qua và sẽ tiếp tục phát triển ứng dụng này dành cho 10A4.
 
-## Chọn mục lục:
+## Chọn mục lục để xem nhanh:
 
-- [Installation](#installation)
+- [Cách cài đặt ứng dụng](#cài đặt ứng dụng)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
-## Installation
+## Cài đặt ứng dụng
 
 Instructions on how to install and set up your project.
 
