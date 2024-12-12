@@ -5,13 +5,13 @@ Là dự án lưu trữ những hình ảnh và kỷ niệm lên trên ứng d�
 
 ## Chọn mục lục để xem nhanh:
 
-- [Cách cài đặt ứng dụng](#cài đặt)
+- [Cách cài đặt ứng dụng](#cài-đặt)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
-## Cài-đặt
+## License
 
 Để cài đặt ứng dụng này dành cho 10A4 
 
@@ -23,7 +23,7 @@ Instructions on how to use your project and any relevant examples or screenshots
 
 Guidelines on how to contribute to your project and any specific requirements.
 
-## License
+## Cài-đặt
 
 This project is licensed under the [MIT License](LICENSE).
 
