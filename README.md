@@ -3,17 +3,11 @@
 
 Là dự án lưu trữ những hình ảnh và kỷ niệm lên trên ứng dụng này thông qua việc trò chuyện trên ứng dụng như: Messager, Zalo,... Chúng tôi thu thập các hình ảnh và kỷ niệm đó để đưa lên ứng dụng nhằn xem lại những hình ảnh và kỷ niệm đáng nhớ trong những năm qua. Chúng tôi đã lên kế hoạch trong tháng qua và sẽ tiếp tục phát triển ứng dụng này dành cho 10A4.
 
-## Chọn mục lục để xem nhanh:
+## Cài đặt ứng dụng
 
-- [Cách cài đặt ứng dụng](#installapp)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+Để cài đặt ứng dụng này dành cho 10A4 hãy là các bước sau đây để cài đặt ứng dụng (Chỉ dành cho các thiết bị hệ điều hành Android)
 
-## License
-
-Để cài đặt ứng dụng này dành cho 10A4 
+Bước 1: Khi bạn đang ở trang chính của dự án hãy kéo xuống dưới sẽ có phần tên là Releases hay còn được gọi là Phát hành.
 
 ## Usage
 
@@ -23,7 +17,7 @@ Instructions on how to use your project and any relevant examples or screenshots
 
 Guidelines on how to contribute to your project and any specific requirements.
 
-## Install App
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
