@@ -15,13 +15,13 @@ Là dự án lưu trữ những hình ảnh và kỷ niệm lên trên ứng d�
 
 Về quá trình xây dựng ứng dụng của chúng tôi thường diễn ra khá là khó khăn và có nhiều hạn chế về tính năng và bộ xây dựng của ứng dụng này. nhưng đây sẽ là những hình ảnh mà chúng tôi đã xây dựng trong tháng qua:
 
-<img src="resources/Screenshot_1.png" >
+<img src="resources/Screenshot_1.png" height="720">
 
-<img src="resources/Screenshot_2.png" >
+<img src="resources/Screenshot_2.png" height="720">
 
-<img src="resources/Screenshot_3.png" >
+<img src="resources/Screenshot_3.png" height="720">
 
-<img src="resources/Screenshot_4.png" >
+<img src="resources/Screenshot_4.png" height="720">
 
 ## Cài đặt ứng dụng
 
