@@ -19,6 +19,9 @@ Về quá trình xây dựng ứng dụng của chúng tôi thường diễn ra 
 
 <img src="resources/Screenshot_2.png" >
 
+<img src="resources/Screenshot_3.png" >
+
+<img src="resources/Screenshot_4.png" >
 
 ## Cài đặt ứng dụng
 
