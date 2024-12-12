@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=84F0F7C9&center=true&vCenter=true&width=450&lines=Xin+ch%C3%A0o%2C+t%C3%B4i+l%C3%A0+NguyenHienN!;V%C3%A0+kh%C3%B4ng+c%C3%B3+g%C3%AC+c%E1%BA%A3+%C2%AF%E2%81%A0%5C%E2%81%A0_%E2%81%A0(%E2%81%A0%E3%83%84%E2%81%A0)%E2%81%A0_%E2%81%A0%2F%E2%81%A0%C2%AF)](https://git.io/typing-svg)
+
 ## Dự án Bộ sưu tập của Bạn dành cho 10A4
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
 
