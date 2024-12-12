@@ -1,8 +1,9 @@
 ## Dự án Bộ sưu tập của Bạn dành cho 10A4
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
 
-A brief description of your project goes here.
+Là dự án lưu trữ những hình ảnh và kỷ niệm lên trên ứng dụng này thông qua việc trò chuyện trên ứng dụng như: Messager, Zalo,... Chúng tôi thu thập các hình ảnh và kỷ niệm đó để đưa lên ứng dụng nhằn xem lại những hình ảnh và kỷ niệm đáng nhớ trong những năm qua. Chúng tôi đã lên kế hoạch trong tháng qua và sẽ tiếp tục phát triển ứng dụng này dành cho 10A4.
 
-## Table of Contents
+## Chọn mục lục:
 
 - [Installation](#installation)
 - [Usage](#usage)
