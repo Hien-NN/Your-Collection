@@ -13,7 +13,7 @@ Là dự án lưu trữ những hình ảnh và kỷ niệm lên trên ứng d�
 
 Về quá trình xây dựng ứng dụng của chúng tôi thường diễn ra khá là khó khăn và có nhiều hạn chế về tính năng và bộ xây dựng của ứng dụng này. nhưng đây sẽ là những hình ảnh mà chúng tôi đã xây dựng trong tháng qua:
 
-<img src="resources/screen-1.png" >
+<img src="resources/Screenshot_20241212_225341_Sketchware Pro.jpg" >
 
 
 ## Cài đặt ứng dụng
