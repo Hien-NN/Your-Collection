@@ -9,13 +9,15 @@ Là dự án lưu trữ những hình ảnh và kỷ niệm lên trên ứng d�
 
 1. Ứng dụng xây dựng
 
-Ứng dụng chúng tôi xây dựng đó chính là Sketchware, để mà nói Sketchware là ứng dụng xây dựng cơ bản cho phép chúng tôi lập trình và tạo ứng dụng Android mà không cần nhiều kiến thức chuyên sâu về lập trình. Đây là một ứng dụng có cách xây dựng dạng kéo thả giống như tạo một trò chơi trên trang web [Scratch](https://www.google.com/search?client=ms-android-samsung-ga-rev1&sca_esv=e095c950f9c2c4db&sxsrf=ADLYWIJqXG87cFF1TxesX12jC_yWv2HTWw:1734018500548&q=scratch&udm=2&fbs=AEQNm0D7NTKsOqMPi-yhU7bWDsijXeHIssQxQHiKhz3Orm0Szk2q6O3Esev6DIwpyqAb2BjXuzUhoSCU4R7jIJwKXYznPH2lW7oQcnijlNKyhRLD_iy-AMqbYySg1yETdDGkOCPzyyGBCE7ol03I13rjd-JZDlQzGpZM7U6YIadvhhj1QJ-YNRWgGD-1l3p_GsHwWbpQ4oA7GSn7AXZPjve060dfF0X6CM7K0iB623xIfuraxDHxFt-VPeyxz-VWO9u0ngO2nXLj&sa=X&sqi=2&ved=2ahUKEwj-gommyqKKAxUXc_UHHQ35H_EQtKgLegQIERAB&biw=412&bih=777&dpr=2.63) thì ứng dụng này có kiểu xây dựng tương tự như thế, nó giúp chúng tôi thiết kế giao diện và thiết lập một cách dễ dàng hơn. Nếu bạn muốn thử xây dựng ứng dụng dành cho riêng mình thì có thể đi đến đường liên kết [Tại đây!](https://sketchware.pro/) để có xây dựng ứng dụng dành cho riêng mình, tất nhiên bạn phải tìm hiểu cách xây dựng trước đã thông qua việc tìm kiếm trên mạng hoặc xem các video cách xây dựng ứng dụng bằng Sketchware. Đó là ứng dụng xây dựng của chúng tôi muốn chia sẻ. 
+Ứng dụng chúng tôi xây dựng đó chính là Sketchware, để mà nói Sketchware là ứng dụng xây dựng cơ bản cho phép chúng tôi lập trình và tạo ứng dụng Android mà không cần nhiều kiến thức chuyên sâu về lập trình. Đây là một ứng dụng có cách xây dựng dạng kéo thả giống như tạo một trò chơi trên trang web [Scratch](https://www.google.com/search?client=ms-android-samsung-ga-rev1&sca_esv=e095c950f9c2c4db&sxsrf=ADLYWIJqXG87cFF1TxesX12jC_yWv2HTWw:1734018500548&q=scratch&udm=2&fbs=AEQNm0D7NTKsOqMPi-yhU7bWDsijXeHIssQxQHiKhz3Orm0Szk2q6O3Esev6DIwpyqAb2BjXuzUhoSCU4R7jIJwKXYznPH2lW7oQcnijlNKyhRLD_iy-AMqbYySg1yETdDGkOCPzyyGBCE7ol03I13rjd-JZDlQzGpZM7U6YIadvhhj1QJ-YNRWgGD-1l3p_GsHwWbpQ4oA7GSn7AXZPjve060dfF0X6CM7K0iB623xIfuraxDHxFt-VPeyxz-VWO9u0ngO2nXLj&sa=X&sqi=2&ved=2ahUKEwj-gommyqKKAxUXc_UHHQ35H_EQtKgLegQIERAB&biw=412&bih=777&dpr=2.63) thì ứng dụng này có kiểu xây dựng tương tự như thế, nó giúp chúng tôi thiết kế giao diện và thiết lập một cách dễ dàng hơn. Nếu bạn muốn thử xây dựng ứng dụng dành cho riêng mình thì có thể đi đến đường liên kết [Tại đây!](https://sketchware.pro/) để có xây dựng ứng dụng dành cho riêng mình, tất nhiên bạn phải tìm hiểu cách xây dựng trước đã thông qua việc tìm kiếm trên mạng hoặc xem các video cách xây dựng ứng dụng bằng Sketchware. Tuy nhiên ứng dụng này lại có điểm hạn chế đó là bộ gói xây dựng của ứng dụng quá cũ nên nó sẽ không thể hỗ trợ một số công cụ, ví dụ như [Material 3 UI](https://www.google.com/search?client=ms-android-samsung-ga-rev1&sca_esv=fb1c0acde680984c&q=material+3&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J603JUkR9Y5suk8yuy50qOYMMWTNCTu57lKPsZpPcfqPQwPMMD4P0WXn1oc4jxGqglhioY4PnpMEMUN-Wr1rQqlPidkHfEJLzQw1WUkXK2_N5uMVXAz9LRtNJIaAxDCODqExrRtWYnTYi5Y-2RpDv0B0YDCPZjQ8OWYx659eaZTQTFsQOw&sa=X&ved=2ahUKEwitic7rxKSKAxXhj68BHTHuFAUQtKgLegQIGRAB&biw=412&bih=777&dpr=2.63) là một giao diện kiểu bo tròn nhìn đẹp mắt như chúng tôi không thể thiết kế giao diện như thế này đó một điều đáng tiếc. Và đó là ứng dụng xây dựng của chúng tôi muốn chia sẻ. 
 
 2. Xây dựng ứng dụng
 
-Về quá trình xây dựng ứng dụng của chúng tôi thường diễn ra khá là khó khăn và có nhiều hạn chế về tính năng và bộ xây dựng của ứng dụng này. nhưng đây sẽ là những hình ảnh mà chúng tôi đã xây dựng trong tháng qua:
+Về quá trình xây dựng ứng dụng của chúng tôi thường diễn ra khá là khó khăn như chúng tôi nói ở trên có nhiều hạn chế về tính năng và bộ xây dựng của ứng dụng này. Nhưng đây sẽ là những hình ảnh mà chúng tôi đã xây dựng trong tháng qua:
 
 <img src="resources/Getting Started [DC030D1].gif" />
+
+Nó khá phức tạp vì chúng tôi không thể liệt kê ra các chỉnh sửa, thiết lập của ứng dụng này.Trong thời gian đó chúng tôi tập trung vào giao diện, tính năng, sửa lỗi để có thể mang ứng dụng này có một trải nghiệm tốt hơn dành cho 10A4.
 
 ## Cài đặt ứng dụng
 
@@ -23,7 +25,8 @@ Về quá trình xây dựng ứng dụng của chúng tôi thường diễn ra 
 
 Bước 1: Khi bạn đang ở trang chính của dự án hãy kéo xuống dưới sẽ có phần tên là Releases hay còn đ"ược gọi là Phát hành.
 
-## Usage
+
+## Cơ chế hoạt động
 
 Instructions on how to use your project and any relevant examples or screenshots.
 
