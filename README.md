@@ -15,12 +15,13 @@ Là dự án lưu trữ những hình ảnh và kỷ niệm lên trên ứng d�
 
 Về quá trình xây dựng ứng dụng của chúng tôi thường diễn ra khá là khó khăn và có nhiều hạn chế về tính năng và bộ xây dựng của ứng dụng này. nhưng đây sẽ là những hình ảnh mà chúng tôi đã xây dựng trong tháng qua:
 
+<img src="resources/Getting Started [DC030D1].gif" />
 
 ## Cài đặt ứng dụng
 
 Để cài đặt ứng dụng này dành cho 10A4 hãy là các bước sau đây để cài đặt ứng dụng (Chỉ dành cho các thiết bị hệ điều hành Android)
 
-Bước 1: Khi bạn đang ở trang chính của dự án hãy kéo xuống dưới sẽ có phần tên là Releases hay còn được gọi là Phát hành.
+Bước 1: Khi bạn đang ở trang chính của dự án hãy kéo xuống dưới sẽ có phần tên là Releases hay còn đ"ược gọi là Phát hành.
 
 ## Usage
 
