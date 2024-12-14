@@ -7,13 +7,13 @@ Là dự án lưu trữ những hình ảnh và kỷ niệm lên trên ứng d�
 
 ## Mục lục đi tới nhanh
 
-- [Quá trình xây dựng ứng dụng](#Application-Building-Process)
+- [Quá trình xây dựng ứng dụng](#Xin-chào)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
-## Application Building Process
+## Xin chào
 
 1. Ứng dụng xây dựng
 
