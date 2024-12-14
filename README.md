@@ -7,7 +7,7 @@ Là dự án lưu trữ những hình ảnh và kỷ niệm lên trên ứng d�
 
 ## Mục lục đi tới nhanh
 
-- [Quá trình xây dựng ứng dụng](#Quá-trình-xây-dựng-ứng-dụng)
+- [Quá trình xây dựng ứng dụng](#quá-trình-xây-dựng-ứng-dụng)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
