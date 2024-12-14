@@ -15,7 +15,7 @@ Là dự án lưu trữ những hình ảnh và kỷ niệm lên trên ứng d�
 
 Về quá trình xây dựng ứng dụng của chúng tôi thường diễn ra khá là khó khăn như chúng tôi nói ở trên có nhiều hạn chế về tính năng và bộ xây dựng của ứng dụng này. Nhưng đây sẽ là những hình ảnh mà chúng tôi đã xây dựng trong tháng qua:
 
-<img src="resources/Getting Started [DC030D1].gif">
+<img src="resources/Screenshot_1.png">
 
 Nó khá phức tạp vì chúng tôi không thể liệt kê ra các chỉnh sửa, thiết lập của ứng dụng này.Trong thời gian đó chúng tôi tập trung vào giao diện, tính năng, sửa lỗi để có thể mang ứng dụng này có một trải nghiệm tốt hơn dành cho 10A4.
 
