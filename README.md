@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=1000&color=0DCDF7&center=true&vCenter=true&width=430&lines=Xin+ch%C3%A0o%2C+t%C3%AAn+t%C3%B4i+l%C3%A0+NguyenHienNg!;V%C3%A0+kh%C3%B4ng+c%C3%B3+g%C3%AC+%C2%AF%E2%81%A0%5C%E2%81%A0_%E2%81%A0(%E2%81%A0%E3%83%84%E2%81%A0)%E2%81%A0_%E2%81%A0%2F%E2%81%A0%C2%AF)](https://git.io/typing-svg)
 
 ## Dự án Bộ sưu tập của Bạn dành cho 10A4
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)]()
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://nguyenhienng.github.io/)
 
 Là dự án lưu trữ những hình ảnh và kỷ niệm lên trên ứng dụng này thông qua việc trò chuyện trên ứng dụng như: Messager, Zalo,... Chúng tôi thu thập các hình ảnh và kỷ niệm đó để đưa lên ứng dụng nhằn xem lại những hình ảnh và kỷ niệm đáng nhớ trong những năm qua.
 
