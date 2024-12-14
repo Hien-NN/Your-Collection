@@ -5,6 +5,14 @@
 
 Là dự án lưu trữ những hình ảnh và kỷ niệm lên trên ứng dụng này thông qua việc trò chuyện trên ứng dụng như: Messager, Zalo,... Chúng tôi thu thập các hình ảnh và kỷ niệm đó để đưa lên ứng dụng nhằn xem lại những hình ảnh và kỷ niệm đáng nhớ trong những năm qua.
 
+## Mục lục đi tới nhanh
+
+- [Quá trình xây dựng ứng dụng](#Quá-trình-xây-dựng-ứng-dụng)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
 ## Quá trình xây dựng ứng dụng
 
 1. Ứng dụng xây dựng
